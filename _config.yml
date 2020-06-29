@@ -1,6 +1,6 @@
 # Site settings
 title: NTG Technology
-description: A blog about lorem ipsum dolor sit amet
+description: NTG Tech - Software Development
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "ntg-tech.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
